@@ -1,3 +1,10 @@
+# This extension is discontinued and unmaitained
+
+Sorry about that. I had to pull it down from Adobe Exchange due to installation bug that some users faced.
+At the same time I couldn't refund those users because Adobe doesn't deliver any refund tool.
+That didn't feel fair. (And I wasn't making a fortune on it anyways, lol)
+If you need to edit 360 video I think [GoPro FX Reframe](https://community.gopro.com/t5/en/GoPro-FX-Reframe/ta-p/412890) is currently the best way.
+
 # Reframe Controls Video Effect
 
 This is only for troubleshooting purposes.

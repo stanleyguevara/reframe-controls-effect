@@ -1,4 +1,4 @@
-# This extension is discontinued and unmaitained
+# This extension is discontinued and not maitained
 
 Sorry about that. I had to pull it down from Adobe Exchange due to installation bug that some users faced.
 At the same time I couldn't refund those users because Adobe doesn't deliver any refund tool.
